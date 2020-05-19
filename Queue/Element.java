@@ -7,6 +7,7 @@
  * Esteban Castillo 
  * 14.05.2020
  */
+
 public class Element
 {
     private int num;
